@@ -74,7 +74,7 @@ A creative studio website concept built around visual storytelling, selected wor
 
 **BuiltByNix&Co** is my web services company focused on creating professional websites and digital experiences for businesses, brands, creators, and individuals.
 
-**Website:** [Visit BuiltByNix&Co](https://builtbynix-co.vercel.app/)
+**Website:** [Visit BuiltByNix&Co](https://nihxl-09.github.io/builtbynix-co/)
 
 **Instagram:** [@BuiltByNix.Co](https://www.instagram.com/builtbynix.co/)
 
