@@ -1,20 +1,23 @@
 # Muhammad Nihal
 
-### Computer Science Student • Developer • Founder
+### Computer Science Student · Developer · Founder of BuiltByNix&Co
 
-I'm a Computer Science student at **P. A. College of Engineering, Mangaluru**, focused on building practical software, web applications, AI-powered tools, and digital products.
+I'm **Muhammad Nihal**, a Computer Science student at **P. A. College of Engineering, Mangaluru**, interested in building practical software, web applications, AI-powered tools, and digital products.
 
-I'm also the founder of **BuiltByNix & Co.**, where I work on building modern digital experiences and websites.
+I enjoy taking an idea from concept to a functional, polished digital experience.
+
+I'm also the founder of **BuiltByNix&Co**, a web services company focused on creating professional digital experiences for clients.
 
 ---
 
 ## About Me
 
-* 🎓 **B.E. Computer Science & Engineering** — P. A. College of Engineering
-* 💼 **Founder — BuiltByNix & Co.**
-* 🌐 Focused on **Web Development & Software Development**
-* 🤖 Exploring **AI applications and LLM-powered tools**
-* 🛠️ I enjoy turning ideas into functional products
+* 🎓 **B.E. Computer Science & Engineering** — P. A. College of Engineering, Mangaluru
+* 💼 **Founder — BuiltByNix&Co**
+* 🌐 Interested in **Web Development & Software Development**
+* 🤖 Exploring **AI Applications & LLM-powered tools**
+* 🎨 Interested in **UI/UX and digital design**
+* 🛠️ Building and experimenting with practical software projects
 * 📍 Mangaluru, Karnataka, India
 
 ---
@@ -29,9 +32,9 @@ I'm also the founder of **BuiltByNix & Co.**, where I work on building modern di
 
 `HTML` `CSS` `JavaScript` `React` `Node.js` `Vite`
 
-### Tools & Technologies
+### Tools
 
-`Git` `GitHub` `Figma` `Blender`
+`Git` `GitHub` `VS Code` `Figma` `Blender`
 
 ### AI
 
@@ -39,59 +42,74 @@ I'm also the founder of **BuiltByNix & Co.**, where I work on building modern di
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### 🌐 Nihal Portfolio
+### 🌐 [Nihal Portfolio](https://nihxl-09.github.io/nihal-portfolio/)
 
-My personal developer portfolio showcasing my work, skills, projects and experience.
+My personal portfolio showcasing my development work, technical interests, skills, and selected projects.
 
-### 💰 Spendly
+### 💰 [Spendly — Student Expense Tracker](https://nihxl-09.github.io/student-expense-tracker/)
 
-A student-focused expense tracking web application designed to help users monitor spending and manage their finances.
+A lightweight expense tracking application designed to help users record, monitor, and understand everyday spending.
 
-### ✅ TaskFlow
+### ✅ [Taskflow — Productivity Workspace](https://nihxl-09.github.io/taskflow/)
 
-A productivity-focused task management web application designed around organizing and managing everyday tasks.
+A productivity-focused web application for organizing tasks, tracking completion, and maintaining a clear view of daily priorities.
 
-### 📝 FormCraft
+### 📝 [FormCraft — Form & Survey Builder](https://nihxl-09.github.io/formcraft/)
 
-A professional form and survey builder focused on creating and managing customizable forms.
+A browser-based form and survey builder designed around creating, customizing, and previewing digital forms.
 
-### 🏛️ Monarch House
+### 🏛️ [Monarch House — Property Showcase](https://nihxl-09.github.io/monarch-house/)
 
-A premium web experience built with a strong focus on visual design, layout and user experience.
+A premium property showcase experience focused on visual presentation, structured information, and user experience.
 
----
+### 🎨 [Atelier — Creative Studio](https://nihxl-09.github.io/atelier/)
 
-## BuiltByNix & Co.
-
-**BuiltByNix & Co.** is my digital development venture focused on creating modern websites and digital experiences.
-
-> Building ideas into products.
+A creative studio website concept built around visual storytelling, selected work, services, and a refined client-facing experience.
 
 ---
 
-## Currently Learning
+## BuiltByNix&Co
+
+**BuiltByNix&Co** is my web services company focused on creating professional websites and digital experiences for businesses, brands, creators, and individuals.
+
+**Website:** [Visit BuiltByNix&Co](https://builtbynix-co.vercel.app/)
+
+**Instagram:** [@BuiltByNix.Co](https://www.instagram.com/builtbynix.co/)
+
+---
+
+## Currently Exploring
 
 * Advanced React development
 * Full-stack web development
 * AI application development
-* Software architecture
-* Modern UI/UX design
+* LLM integrations
+* Modern UI/UX
 * Building and deploying real-world products
+* Improving software development practices
 
 ---
 
-## Let's Connect
+## Beyond Code
 
-🌐 **Portfolio:** [Visit my portfolio](https://nihxl-09.github.io/nihal-portfolio/)
+I'm interested in the intersection of **development, design, AI, and product building**.
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muhammad-nihal-706071389/)
+My goal is to keep turning ideas into useful digital products while continuously improving how I design, build, and present them.
 
-📧 **Email:** [nihxl09@gmail.com]
+---
+
+## Connect
+
+🌐 **[Portfolio](https://nihxl-09.github.io/nihal-portfolio/)**
+
+💼 **[LinkedIn](https://www.linkedin.com/in/muhammad-nihal-706071389/)**
+
+📧 **[nihxl09@gmail.com](mailto:nihxl09@gmail.com)**
 
 ---
 
 ### Building. Learning. Improving.
 
-⭐ If you find one of my projects useful, feel free to explore the repository.
+Thanks for visiting my profile.
